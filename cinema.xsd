@@ -1,0 +1,43 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:string" name="address"/>
+        <xs:element name="movies">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="element" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="screen">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="movie"/>
+                          <xs:element type="xs:byte" name="number"/>
+                          <xs:element type="xs:string" name="usher"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="showday">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="text"/>
+                          <xs:element type="xs:byte" name="value"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element type="xs:string" name="showtime"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element type="xs:string" name="name"/>
+        <xs:element type="xs:string" name="owner"/>
+        <xs:element type="xs:string" name="phone"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
