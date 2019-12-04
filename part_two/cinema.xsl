@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" 
-  xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <!-- Variables -->
   <xsl:param name="currentPage" select="1" />
   <xsl:param name="pageSize" select="20" />
@@ -9,34 +8,49 @@
     <html>
       <body>
         <h1>
-          <xsl:value-of select="root/name"/>
+          <xsl:value-of select="root/name" />
         </h1>
         <h2>
-          <xsl:value-of select="root/address"/>
-          <br/>
-          <xsl:value-of select="root/owner"/>
-          <br/>
-          <xsl:value-of select="root/phone"/>
+          Address:
+          <xsl:value-of select="root/address" />
+          <br />
+          Ownner:
+          <xsl:value-of select="root/owner" />
+          <br />
+          Phone:
+          <xsl:value-of select="root/phone" />
         </h2>
         <xsl:for-each select="root/movies/element">
-          <xsl:sort select="showday/value"/>
-          <ul>
-            <li>
-              Movie name: <b><xsl:value-of select="screen/movie"/></b>
-            </li>
-            <li>
-              Screen: <b><xsl:value-of select="screen/number"/></b>
-            </li>
-            <li>
-              Usher: <b><xsl:value-of select="screen/usher"/></b>
-            </li>
-            <li>
-              Showday: <b><xsl:value-of select="showday/text"/></b>
-            </li>
-            <li>
-              Showtime: <b><xsl:value-of select="showtime"/></b>
-            </li>
-          </ul>
+          <h3>
+            <xsl:value-of select="./week" />
+          </h3>
+          <xsl:for-each select="./movies/element">
+            <p><xsl:value-of select="./day" /></p>
+            <table border="1">
+              <thead style="font-weight: bold">
+                <tr>
+                  <td>Showtime</td>
+                  <td>Movie</td>
+                  <td>Screen</td>
+                  <td>Usher</td>
+                  <xsl:if test="./day = 'Sunday'">
+                    <td>Theme</td>
+                  </xsl:if>
+                </tr>
+              </thead>
+              <xsl:for-each select="./movies/element">
+                <tr>
+                  <td><xsl:value-of select="./showtime" /></td>
+                  <td><xsl:value-of select="./screen/movie" /></td>
+                  <td><xsl:value-of select="./screen/number" /></td>
+                  <td><xsl:value-of select="./screen/usher" /></td>
+                  <xsl:if test="./screen/theme != ''">
+                    <td><xsl:value-of select="./screen/theme" /></td>
+                  </xsl:if>
+                </tr>
+              </xsl:for-each>
+            </table>
+          </xsl:for-each>
         </xsl:for-each>
       </body>
     </html>
