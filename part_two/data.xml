@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <address>23 Old Street, Oxford</address>
+  <moviesByWeek>
+    <element>
+      <moviesByScreen>
+        <element>
+          <moviesByDay>
+            <element>
+              <day>Monday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Tuesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Wednesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Thursday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Friday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Saturday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Sunday</day>
+              <movies>
+                <element>A fistful of Dollars</element>
+                <element>For a Few Dollars More</element>
+                <element>The Good, the Bad and the Ugly</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme>Spaghetti Westerns</theme>
+            </element>
+          </moviesByDay>
+          <name>Screen 1</name>
+          <usher>Sarah Eccles</usher>
+        </element>
+        <element>
+          <moviesByDay>
+            <element>
+              <day>Monday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Tuesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Wednesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Thursday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Friday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Saturday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Sunday</day>
+              <movies>
+                <element>A fistful of Dollars</element>
+                <element>For a Few Dollars More</element>
+                <element>The Good, the Bad and the Ugly</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme>Spaghetti Westerns</theme>
+            </element>
+          </moviesByDay>
+          <name>Screen 2</name>
+          <usher>Ari Ventaro</usher>
+        </element>
+        <element>
+          <moviesByDay>
+            <element>
+              <day>Monday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Tuesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Wednesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Thursday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Friday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Saturday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Sunday</day>
+              <movies>
+                <element>A fistful of Dollars</element>
+                <element>For a Few Dollars More</element>
+                <element>The Good, the Bad and the Ugly</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme>Spaghetti Westerns</theme>
+            </element>
+          </moviesByDay>
+          <name>Screen 3</name>
+          <usher>Jake Calcas</usher>
+        </element>
+      </moviesByScreen>
+      <week>Week 1</week>
+    </element>
+    <element>
+      <moviesByScreen>
+        <element>
+          <moviesByDay>
+            <element>
+              <day>Monday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Tuesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Wednesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Thursday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Friday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Saturday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Sunday</day>
+              <movies>
+                <element>A fistful of Dollars</element>
+                <element>For a Few Dollars More</element>
+                <element>The Good, the Bad and the Ugly</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme>Spaghetti Westerns</theme>
+            </element>
+          </moviesByDay>
+          <name>Screen 1</name>
+          <usher>Sarah Eccles</usher>
+        </element>
+        <element>
+          <moviesByDay>
+            <element>
+              <day>Monday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Tuesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Wednesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Thursday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Friday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Saturday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Sunday</day>
+              <movies>
+                <element>A fistful of Dollars</element>
+                <element>For a Few Dollars More</element>
+                <element>The Good, the Bad and the Ugly</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme>Spaghetti Westerns</theme>
+            </element>
+          </moviesByDay>
+          <name>Screen 2</name>
+          <usher>Ari Ventaro</usher>
+        </element>
+        <element>
+          <moviesByDay>
+            <element>
+              <day>Monday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Tuesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Wednesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Thursday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Friday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Saturday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Sunday</day>
+              <movies>
+                <element>A fistful of Dollars</element>
+                <element>For a Few Dollars More</element>
+                <element>The Good, the Bad and the Ugly</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme>Spaghetti Westerns</theme>
+            </element>
+          </moviesByDay>
+          <name>Screen 3</name>
+          <usher>Jake Calcas</usher>
+        </element>
+      </moviesByScreen>
+      <week>Week 2</week>
+    </element>
+    <element>
+      <moviesByScreen>
+        <element>
+          <moviesByDay>
+            <element>
+              <day>Monday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Tuesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Wednesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Thursday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Friday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Saturday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Sunday</day>
+              <movies>
+                <element>A fistful of Dollars</element>
+                <element>For a Few Dollars More</element>
+                <element>The Good, the Bad and the Ugly</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme>Spaghetti Westerns</theme>
+            </element>
+          </moviesByDay>
+          <name>Screen 1</name>
+          <usher>Sarah Eccles</usher>
+        </element>
+        <element>
+          <moviesByDay>
+            <element>
+              <day>Monday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Tuesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Wednesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Thursday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Friday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Saturday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Sunday</day>
+              <movies>
+                <element>A fistful of Dollars</element>
+                <element>For a Few Dollars More</element>
+                <element>The Good, the Bad and the Ugly</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme>Spaghetti Westerns</theme>
+            </element>
+          </moviesByDay>
+          <name>Screen 2</name>
+          <usher>Ari Ventaro</usher>
+        </element>
+        <element>
+          <moviesByDay>
+            <element>
+              <day>Monday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Tuesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Wednesday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Thursday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Friday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Saturday</day>
+              <movies>
+                <element>Jaws</element>
+                <element>The Breakfast Club</element>
+                <element>The Maltese Falcon</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme />
+            </element>
+            <element>
+              <day>Sunday</day>
+              <movies>
+                <element>A fistful of Dollars</element>
+                <element>For a Few Dollars More</element>
+                <element>The Good, the Bad and the Ugly</element>
+              </movies>
+              <showTimes>
+                <element>13:30</element>
+                <element>17:00</element>
+                <element>20:30</element>
+              </showTimes>
+              <theme>Spaghetti Westerns</theme>
+            </element>
+          </moviesByDay>
+          <name>Screen 3</name>
+          <usher>Jake Calcas</usher>
+        </element>
+      </moviesByScreen>
+      <week>Week 3</week>
+    </element>
+  </moviesByWeek>
+  <name>Old St. Cinema</name>
+  <owner>John Arbuttle</owner>
+  <phone>01865 123456</phone>
+</root>
