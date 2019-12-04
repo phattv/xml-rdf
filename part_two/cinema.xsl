@@ -64,7 +64,9 @@
                     ><xsl:value-of select="./screen/usher"
                   /></td>
                   <xsl:if test="./screen/theme != ''">
-                    <td><xsl:value-of select="./screen/theme"/></td>
+                    <td style="border: 1px solid #ddd; padding: 8px;"
+                      ><xsl:value-of select="./screen/theme"
+                    /></td>
                   </xsl:if>
                 </tr>
               </xsl:for-each>
