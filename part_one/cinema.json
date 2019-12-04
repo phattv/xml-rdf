@@ -5,12 +5,12 @@
   "owner": "John Arbuttle",
   "movies": [
     {
-      "showday": { "text": "monday", "value": 0 },
+      "showday": "monday",
       "showtime": "13:30",
       "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
     },
     {
-      "showday": { "text": "monday", "value": 0 },
+      "showday": "monday",
       "showtime": "13:30",
       "screen": {
         "number": 2,
@@ -19,76 +19,7 @@
       }
     },
     {
-      "showday": { "text": "monday", "value": 0 },
-      "showtime": "13:30",
-      "screen": {
-        "number": 3,
-        "usher": "Jake Calcas",
-        "movie": "The Maltese Falcon"
-      }
-    },
-    {
-      "showday": { "text": "monday", "value": 0 },
-      "showtime": "17:00",
-      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
-    },
-    {
-      "showday": { "text": "monday", "value": 0 },
-      "showtime": "17:00",
-      "screen": {
-        "number": 2,
-        "usher": "Ari Ventaro",
-        "movie": "The Breakfast Club"
-      }
-    },
-    {
-      "showday": { "text": "monday", "value": 0 },
-      "showtime": "17:00",
-      "screen": {
-        "number": 3,
-        "usher": "Jake Calcas",
-        "movie": "The Maltese Falcon"
-      }
-    },
-    {
-      "showday": { "text": "monday", "value": 0 },
-      "showtime": "20:30",
-      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
-    },
-    {
-      "showday": { "text": "monday", "value": 0 },
-      "showtime": "20:30",
-      "screen": {
-        "number": 2,
-        "usher": "Ari Ventaro",
-        "movie": "The Breakfast Club"
-      }
-    },
-    {
-      "showday": { "text": "monday", "value": 0 },
-      "showtime": "20:30",
-      "screen": {
-        "number": 3,
-        "usher": "Jake Calcas",
-        "movie": "The Maltese Falcon"
-      }
-    },
-    {
-      "showday": { "text": "tuesday", "value": 1 },
-      "showtime": "13:30",
-      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
-    },
-    {
-      "showday": { "text": "tuesday", "value": 1 },
-      "showtime": "13:30",
-      "screen": {
-        "number": 2,
-        "usher": "Ari Ventaro",
-        "movie": "The Breakfast Club"
-      }
-    },
-    {
-      "showday": { "text": "tuesday", "value": 1 },
+      "showday": "monday",
       "showtime": "13:30",
       "screen": {
         "number": 3,
@@ -97,12 +28,12 @@
       }
     },
     {
-      "showday": { "text": "tuesday", "value": 1 },
+      "showday": "monday",
       "showtime": "17:00",
       "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
     },
     {
-      "showday": { "text": "tuesday", "value": 1 },
+      "showday": "monday",
       "showtime": "17:00",
       "screen": {
         "number": 2,
@@ -111,7 +42,7 @@
       }
     },
     {
-      "showday": { "text": "tuesday", "value": 1 },
+      "showday": "monday",
       "showtime": "17:00",
       "screen": {
         "number": 3,
@@ -120,12 +51,12 @@
       }
     },
     {
-      "showday": { "text": "tuesday", "value": 1 },
+      "showday": "monday",
       "showtime": "20:30",
       "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
     },
     {
-      "showday": { "text": "tuesday", "value": 1 },
+      "showday": "monday",
       "showtime": "20:30",
       "screen": {
         "number": 2,
@@ -134,7 +65,7 @@
       }
     },
     {
-      "showday": { "text": "tuesday", "value": 1 },
+      "showday": "monday",
       "showtime": "20:30",
       "screen": {
         "number": 3,
@@ -143,81 +74,12 @@
       }
     },
     {
-      "showday": { "text": "wednesday", "value": 2 },
+      "showday": "tuesday",
       "showtime": "13:30",
       "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
     },
     {
-      "showday": { "text": "wednesday", "value": 2 },
-      "showtime": "13:30",
-      "screen": {
-        "number": 2,
-        "usher": "Ari Ventaro",
-        "movie": "The Breakfast Club"
-      }
-    },
-    {
-      "showday": { "text": "wednesday", "value": 2 },
-      "showtime": "13:30",
-      "screen": {
-        "number": 3,
-        "usher": "Jake Calcas",
-        "movie": "The Maltese Falcon"
-      }
-    },
-    {
-      "showday": { "text": "wednesday", "value": 2 },
-      "showtime": "17:00",
-      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
-    },
-    {
-      "showday": { "text": "wednesday", "value": 2 },
-      "showtime": "17:00",
-      "screen": {
-        "number": 2,
-        "usher": "Ari Ventaro",
-        "movie": "The Breakfast Club"
-      }
-    },
-    {
-      "showday": { "text": "wednesday", "value": 2 },
-      "showtime": "17:00",
-      "screen": {
-        "number": 3,
-        "usher": "Jake Calcas",
-        "movie": "The Maltese Falcon"
-      }
-    },
-    {
-      "showday": { "text": "wednesday", "value": 2 },
-      "showtime": "20:30",
-      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
-    },
-    {
-      "showday": { "text": "wednesday", "value": 2 },
-      "showtime": "20:30",
-      "screen": {
-        "number": 2,
-        "usher": "Ari Ventaro",
-        "movie": "The Breakfast Club"
-      }
-    },
-    {
-      "showday": { "text": "wednesday", "value": 2 },
-      "showtime": "20:30",
-      "screen": {
-        "number": 3,
-        "usher": "Jake Calcas",
-        "movie": "The Maltese Falcon"
-      }
-    },
-    {
-      "showday": { "text": "thursday", "value": 3 },
-      "showtime": "13:30",
-      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
-    },
-    {
-      "showday": { "text": "thursday", "value": 3 },
+      "showday": "tuesday",
       "showtime": "13:30",
       "screen": {
         "number": 2,
@@ -226,7 +88,7 @@
       }
     },
     {
-      "showday": { "text": "thursday", "value": 3 },
+      "showday": "tuesday",
       "showtime": "13:30",
       "screen": {
         "number": 3,
@@ -235,12 +97,12 @@
       }
     },
     {
-      "showday": { "text": "thursday", "value": 3 },
+      "showday": "tuesday",
       "showtime": "17:00",
       "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
     },
     {
-      "showday": { "text": "thursday", "value": 3 },
+      "showday": "tuesday",
       "showtime": "17:00",
       "screen": {
         "number": 2,
@@ -249,7 +111,7 @@
       }
     },
     {
-      "showday": { "text": "thursday", "value": 3 },
+      "showday": "tuesday",
       "showtime": "17:00",
       "screen": {
         "number": 3,
@@ -258,12 +120,12 @@
       }
     },
     {
-      "showday": { "text": "thursday", "value": 3 },
+      "showday": "tuesday",
       "showtime": "20:30",
       "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
     },
     {
-      "showday": { "text": "thursday", "value": 3 },
+      "showday": "tuesday",
       "showtime": "20:30",
       "screen": {
         "number": 2,
@@ -272,7 +134,7 @@
       }
     },
     {
-      "showday": { "text": "thursday", "value": 3 },
+      "showday": "tuesday",
       "showtime": "20:30",
       "screen": {
         "number": 3,
@@ -281,81 +143,12 @@
       }
     },
     {
-      "showday": { "text": "friday", "value": 4 },
+      "showday": "wednesday",
       "showtime": "13:30",
       "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
     },
     {
-      "showday": { "text": "friday", "value": 4 },
-      "showtime": "13:30",
-      "screen": {
-        "number": 2,
-        "usher": "Ari Ventaro",
-        "movie": "The Breakfast Club"
-      }
-    },
-    {
-      "showday": { "text": "friday", "value": 4 },
-      "showtime": "13:30",
-      "screen": {
-        "number": 3,
-        "usher": "Jake Calcas",
-        "movie": "The Maltese Falcon"
-      }
-    },
-    {
-      "showday": { "text": "friday", "value": 4 },
-      "showtime": "17:00",
-      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
-    },
-    {
-      "showday": { "text": "friday", "value": 4 },
-      "showtime": "17:00",
-      "screen": {
-        "number": 2,
-        "usher": "Ari Ventaro",
-        "movie": "The Breakfast Club"
-      }
-    },
-    {
-      "showday": { "text": "friday", "value": 4 },
-      "showtime": "17:00",
-      "screen": {
-        "number": 3,
-        "usher": "Jake Calcas",
-        "movie": "The Maltese Falcon"
-      }
-    },
-    {
-      "showday": { "text": "friday", "value": 4 },
-      "showtime": "20:30",
-      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
-    },
-    {
-      "showday": { "text": "friday", "value": 4 },
-      "showtime": "20:30",
-      "screen": {
-        "number": 2,
-        "usher": "Ari Ventaro",
-        "movie": "The Breakfast Club"
-      }
-    },
-    {
-      "showday": { "text": "friday", "value": 4 },
-      "showtime": "20:30",
-      "screen": {
-        "number": 3,
-        "usher": "Jake Calcas",
-        "movie": "The Maltese Falcon"
-      }
-    },
-    {
-      "showday": { "text": "saturday", "value": 5 },
-      "showtime": "13:30",
-      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
-    },
-    {
-      "showday": { "text": "saturday", "value": 5 },
+      "showday": "wednesday",
       "showtime": "13:30",
       "screen": {
         "number": 2,
@@ -364,7 +157,7 @@
       }
     },
     {
-      "showday": { "text": "saturday", "value": 5 },
+      "showday": "wednesday",
       "showtime": "13:30",
       "screen": {
         "number": 3,
@@ -373,12 +166,12 @@
       }
     },
     {
-      "showday": { "text": "saturday", "value": 5 },
+      "showday": "wednesday",
       "showtime": "17:00",
       "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
     },
     {
-      "showday": { "text": "saturday", "value": 5 },
+      "showday": "wednesday",
       "showtime": "17:00",
       "screen": {
         "number": 2,
@@ -387,7 +180,7 @@
       }
     },
     {
-      "showday": { "text": "saturday", "value": 5 },
+      "showday": "wednesday",
       "showtime": "17:00",
       "screen": {
         "number": 3,
@@ -396,12 +189,12 @@
       }
     },
     {
-      "showday": { "text": "saturday", "value": 5 },
+      "showday": "wednesday",
       "showtime": "20:30",
       "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
     },
     {
-      "showday": { "text": "saturday", "value": 5 },
+      "showday": "wednesday",
       "showtime": "20:30",
       "screen": {
         "number": 2,
@@ -410,7 +203,214 @@
       }
     },
     {
-      "showday": { "text": "saturday", "value": 5 },
+      "showday": "wednesday",
+      "showtime": "20:30",
+      "screen": {
+        "number": 3,
+        "usher": "Jake Calcas",
+        "movie": "The Maltese Falcon"
+      }
+    },
+    {
+      "showday": "thursday",
+      "showtime": "13:30",
+      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
+    },
+    {
+      "showday": "thursday",
+      "showtime": "13:30",
+      "screen": {
+        "number": 2,
+        "usher": "Ari Ventaro",
+        "movie": "The Breakfast Club"
+      }
+    },
+    {
+      "showday": "thursday",
+      "showtime": "13:30",
+      "screen": {
+        "number": 3,
+        "usher": "Jake Calcas",
+        "movie": "The Maltese Falcon"
+      }
+    },
+    {
+      "showday": "thursday",
+      "showtime": "17:00",
+      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
+    },
+    {
+      "showday": "thursday",
+      "showtime": "17:00",
+      "screen": {
+        "number": 2,
+        "usher": "Ari Ventaro",
+        "movie": "The Breakfast Club"
+      }
+    },
+    {
+      "showday": "thursday",
+      "showtime": "17:00",
+      "screen": {
+        "number": 3,
+        "usher": "Jake Calcas",
+        "movie": "The Maltese Falcon"
+      }
+    },
+    {
+      "showday": "thursday",
+      "showtime": "20:30",
+      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
+    },
+    {
+      "showday": "thursday",
+      "showtime": "20:30",
+      "screen": {
+        "number": 2,
+        "usher": "Ari Ventaro",
+        "movie": "The Breakfast Club"
+      }
+    },
+    {
+      "showday": "thursday",
+      "showtime": "20:30",
+      "screen": {
+        "number": 3,
+        "usher": "Jake Calcas",
+        "movie": "The Maltese Falcon"
+      }
+    },
+    {
+      "showday": "friday",
+      "showtime": "13:30",
+      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
+    },
+    {
+      "showday": "friday",
+      "showtime": "13:30",
+      "screen": {
+        "number": 2,
+        "usher": "Ari Ventaro",
+        "movie": "The Breakfast Club"
+      }
+    },
+    {
+      "showday": "friday",
+      "showtime": "13:30",
+      "screen": {
+        "number": 3,
+        "usher": "Jake Calcas",
+        "movie": "The Maltese Falcon"
+      }
+    },
+    {
+      "showday": "friday",
+      "showtime": "17:00",
+      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
+    },
+    {
+      "showday": "friday",
+      "showtime": "17:00",
+      "screen": {
+        "number": 2,
+        "usher": "Ari Ventaro",
+        "movie": "The Breakfast Club"
+      }
+    },
+    {
+      "showday": "friday",
+      "showtime": "17:00",
+      "screen": {
+        "number": 3,
+        "usher": "Jake Calcas",
+        "movie": "The Maltese Falcon"
+      }
+    },
+    {
+      "showday": "friday",
+      "showtime": "20:30",
+      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
+    },
+    {
+      "showday": "friday",
+      "showtime": "20:30",
+      "screen": {
+        "number": 2,
+        "usher": "Ari Ventaro",
+        "movie": "The Breakfast Club"
+      }
+    },
+    {
+      "showday": "friday",
+      "showtime": "20:30",
+      "screen": {
+        "number": 3,
+        "usher": "Jake Calcas",
+        "movie": "The Maltese Falcon"
+      }
+    },
+    {
+      "showday": "saturday",
+      "showtime": "13:30",
+      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
+    },
+    {
+      "showday": "saturday",
+      "showtime": "13:30",
+      "screen": {
+        "number": 2,
+        "usher": "Ari Ventaro",
+        "movie": "The Breakfast Club"
+      }
+    },
+    {
+      "showday": "saturday",
+      "showtime": "13:30",
+      "screen": {
+        "number": 3,
+        "usher": "Jake Calcas",
+        "movie": "The Maltese Falcon"
+      }
+    },
+    {
+      "showday": "saturday",
+      "showtime": "17:00",
+      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
+    },
+    {
+      "showday": "saturday",
+      "showtime": "17:00",
+      "screen": {
+        "number": 2,
+        "usher": "Ari Ventaro",
+        "movie": "The Breakfast Club"
+      }
+    },
+    {
+      "showday": "saturday",
+      "showtime": "17:00",
+      "screen": {
+        "number": 3,
+        "usher": "Jake Calcas",
+        "movie": "The Maltese Falcon"
+      }
+    },
+    {
+      "showday": "saturday",
+      "showtime": "20:30",
+      "screen": { "number": 1, "usher": "Sarah Eccles", "movie": "Jaws" }
+    },
+    {
+      "showday": "saturday",
+      "showtime": "20:30",
+      "screen": {
+        "number": 2,
+        "usher": "Ari Ventaro",
+        "movie": "The Breakfast Club"
+      }
+    },
+    {
+      "showday": "saturday",
       "showtime": "20:30",
       "screen": {
         "number": 3,

@@ -39,7 +39,7 @@ showDays.forEach(function(showDay) {
   showtimes.forEach(function(showtime) {
     screens.forEach(function(screen) {
       cinema.movies.push({
-        showday: showDay,
+        showday: showDay.text,
         showtime: showtime,
         screen: screen
       });

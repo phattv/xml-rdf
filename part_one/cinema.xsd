@@ -19,14 +19,7 @@
                         </xs:sequence>
                       </xs:complexType>
                     </xs:element>
-                    <xs:element name="showday">
-                      <xs:complexType>
-                        <xs:sequence>
-                          <xs:element type="xs:string" name="text"/>
-                          <xs:element type="xs:byte" name="value"/>
-                        </xs:sequence>
-                      </xs:complexType>
-                    </xs:element>
+                    <xs:element type="xs:string" name="showday"/>
                     <xs:element type="xs:string" name="showtime"/>
                   </xs:sequence>
                 </xs:complexType>

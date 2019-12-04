@@ -6,10 +6,7 @@
 :phone "01865 123456";
 :owner "John Arbuttle";
 :movies [
-  :showday [
-    :text "monday";
-    :value 0
-    ];
+  :showday "monday";
   :showtime 13:30;
   :screen [
     :number 1;
@@ -18,10 +15,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "monday";
-    :value 0
-    ];
+  :showday "monday";
   :showtime 13:30;
   :screen [
     :number 2;
@@ -30,10 +24,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "monday";
-    :value 0
-    ];
+  :showday "monday";
   :showtime 13:30;
   :screen [
     :number 3;
@@ -42,10 +33,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "monday";
-    :value 0
-    ];
+  :showday "monday";
   :showtime 17:00;
   :screen [
     :number 1;
@@ -54,10 +42,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "monday";
-    :value 0
-    ];
+  :showday "monday";
   :showtime 17:00;
   :screen [
     :number 2;
@@ -66,10 +51,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "monday";
-    :value 0
-    ];
+  :showday "monday";
   :showtime 17:00;
   :screen [
     :number 3;
@@ -78,10 +60,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "monday";
-    :value 0
-    ];
+  :showday "monday";
   :showtime 20:30;
   :screen [
     :number 1;
@@ -90,10 +69,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "monday";
-    :value 0
-    ];
+  :showday "monday";
   :showtime 20:30;
   :screen [
     :number 2;
@@ -102,10 +78,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "monday";
-    :value 0
-    ];
+  :showday "monday";
   :showtime 20:30;
   :screen [
     :number 3;
@@ -114,10 +87,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "tuesday";
-    :value 1
-    ];
+  :showday "tuesday";
   :showtime 13:30;
   :screen [
     :number 1;
@@ -126,10 +96,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "tuesday";
-    :value 1
-    ];
+  :showday "tuesday";
   :showtime 13:30;
   :screen [
     :number 2;
@@ -138,10 +105,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "tuesday";
-    :value 1
-    ];
+  :showday "tuesday";
   :showtime 13:30;
   :screen [
     :number 3;
@@ -150,10 +114,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "tuesday";
-    :value 1
-    ];
+  :showday "tuesday";
   :showtime 17:00;
   :screen [
     :number 1;
@@ -162,10 +123,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "tuesday";
-    :value 1
-    ];
+  :showday "tuesday";
   :showtime 17:00;
   :screen [
     :number 2;
@@ -174,10 +132,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "tuesday";
-    :value 1
-    ];
+  :showday "tuesday";
   :showtime 17:00;
   :screen [
     :number 3;
@@ -186,10 +141,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "tuesday";
-    :value 1
-    ];
+  :showday "tuesday";
   :showtime 20:30;
   :screen [
     :number 1;
@@ -198,10 +150,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "tuesday";
-    :value 1
-    ];
+  :showday "tuesday";
   :showtime 20:30;
   :screen [
     :number 2;
@@ -210,10 +159,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "tuesday";
-    :value 1
-    ];
+  :showday "tuesday";
   :showtime 20:30;
   :screen [
     :number 3;
@@ -222,10 +168,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "wednesday";
-    :value 2
-    ];
+  :showday "wednesday";
   :showtime 13:30;
   :screen [
     :number 1;
@@ -234,10 +177,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "wednesday";
-    :value 2
-    ];
+  :showday "wednesday";
   :showtime 13:30;
   :screen [
     :number 2;
@@ -246,10 +186,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "wednesday";
-    :value 2
-    ];
+  :showday "wednesday";
   :showtime 13:30;
   :screen [
     :number 3;
@@ -258,10 +195,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "wednesday";
-    :value 2
-    ];
+  :showday "wednesday";
   :showtime 17:00;
   :screen [
     :number 1;
@@ -270,10 +204,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "wednesday";
-    :value 2
-    ];
+  :showday "wednesday";
   :showtime 17:00;
   :screen [
     :number 2;
@@ -282,10 +213,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "wednesday";
-    :value 2
-    ];
+  :showday "wednesday";
   :showtime 17:00;
   :screen [
     :number 3;
@@ -294,10 +222,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "wednesday";
-    :value 2
-    ];
+  :showday "wednesday";
   :showtime 20:30;
   :screen [
     :number 1;
@@ -306,10 +231,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "wednesday";
-    :value 2
-    ];
+  :showday "wednesday";
   :showtime 20:30;
   :screen [
     :number 2;
@@ -318,10 +240,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "wednesday";
-    :value 2
-    ];
+  :showday "wednesday";
   :showtime 20:30;
   :screen [
     :number 3;
@@ -330,10 +249,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "thursday";
-    :value 3
-    ];
+  :showday "thursday";
   :showtime 13:30;
   :screen [
     :number 1;
@@ -342,10 +258,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "thursday";
-    :value 3
-    ];
+  :showday "thursday";
   :showtime 13:30;
   :screen [
     :number 2;
@@ -354,10 +267,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "thursday";
-    :value 3
-    ];
+  :showday "thursday";
   :showtime 13:30;
   :screen [
     :number 3;
@@ -366,10 +276,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "thursday";
-    :value 3
-    ];
+  :showday "thursday";
   :showtime 17:00;
   :screen [
     :number 1;
@@ -378,10 +285,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "thursday";
-    :value 3
-    ];
+  :showday "thursday";
   :showtime 17:00;
   :screen [
     :number 2;
@@ -390,10 +294,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "thursday";
-    :value 3
-    ];
+  :showday "thursday";
   :showtime 17:00;
   :screen [
     :number 3;
@@ -402,10 +303,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "thursday";
-    :value 3
-    ];
+  :showday "thursday";
   :showtime 20:30;
   :screen [
     :number 1;
@@ -414,10 +312,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "thursday";
-    :value 3
-    ];
+  :showday "thursday";
   :showtime 20:30;
   :screen [
     :number 2;
@@ -426,10 +321,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "thursday";
-    :value 3
-    ];
+  :showday "thursday";
   :showtime 20:30;
   :screen [
     :number 3;
@@ -438,10 +330,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "friday";
-    :value 4
-    ];
+  :showday "friday";
   :showtime 13:30;
   :screen [
     :number 1;
@@ -450,10 +339,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "friday";
-    :value 4
-    ];
+  :showday "friday";
   :showtime 13:30;
   :screen [
     :number 2;
@@ -462,10 +348,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "friday";
-    :value 4
-    ];
+  :showday "friday";
   :showtime 13:30;
   :screen [
     :number 3;
@@ -474,10 +357,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "friday";
-    :value 4
-    ];
+  :showday "friday";
   :showtime 17:00;
   :screen [
     :number 1;
@@ -486,10 +366,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "friday";
-    :value 4
-    ];
+  :showday "friday";
   :showtime 17:00;
   :screen [
     :number 2;
@@ -498,10 +375,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "friday";
-    :value 4
-    ];
+  :showday "friday";
   :showtime 17:00;
   :screen [
     :number 3;
@@ -510,10 +384,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "friday";
-    :value 4
-    ];
+  :showday "friday";
   :showtime 20:30;
   :screen [
     :number 1;
@@ -522,10 +393,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "friday";
-    :value 4
-    ];
+  :showday "friday";
   :showtime 20:30;
   :screen [
     :number 2;
@@ -534,10 +402,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "friday";
-    :value 4
-    ];
+  :showday "friday";
   :showtime 20:30;
   :screen [
     :number 3;
@@ -546,10 +411,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "saturday";
-    :value 5
-    ];
+  :showday "saturday";
   :showtime 13:30;
   :screen [
     :number 1;
@@ -558,10 +420,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "saturday";
-    :value 5
-    ];
+  :showday "saturday";
   :showtime 13:30;
   :screen [
     :number 2;
@@ -570,10 +429,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "saturday";
-    :value 5
-    ];
+  :showday "saturday";
   :showtime 13:30;
   :screen [
     :number 3;
@@ -582,10 +438,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "saturday";
-    :value 5
-    ];
+  :showday "saturday";
   :showtime 17:00;
   :screen [
     :number 1;
@@ -594,10 +447,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "saturday";
-    :value 5
-    ];
+  :showday "saturday";
   :showtime 17:00;
   :screen [
     :number 2;
@@ -606,10 +456,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "saturday";
-    :value 5
-    ];
+  :showday "saturday";
   :showtime 17:00;
   :screen [
     :number 3;
@@ -618,10 +465,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "saturday";
-    :value 5
-    ];
+  :showday "saturday";
   :showtime 20:30;
   :screen [
     :number 1;
@@ -630,10 +474,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "saturday";
-    :value 5
-    ];
+  :showday "saturday";
   :showtime 20:30;
   :screen [
     :number 2;
@@ -642,10 +483,7 @@
     ]
   ];
 :movies [
-  :showday [
-    :text "saturday";
-    :value 5
-    ];
+  :showday "saturday";
   :showtime 20:30;
   :screen [
     :number 3;
@@ -653,4 +491,4 @@
     :movie "The Maltese Falcon"
     ]
   ]
-] ."
+] .

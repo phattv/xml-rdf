@@ -8,10 +8,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>monday</text>
-        <value>0</value>
-      </showday>
+      <showday>monday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -20,10 +17,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>monday</text>
-        <value>0</value>
-      </showday>
+      <showday>monday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -32,10 +26,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>monday</text>
-        <value>0</value>
-      </showday>
+      <showday>monday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -44,10 +35,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>monday</text>
-        <value>0</value>
-      </showday>
+      <showday>monday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -56,10 +44,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>monday</text>
-        <value>0</value>
-      </showday>
+      <showday>monday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -68,10 +53,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>monday</text>
-        <value>0</value>
-      </showday>
+      <showday>monday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -80,10 +62,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>monday</text>
-        <value>0</value>
-      </showday>
+      <showday>monday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -92,10 +71,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>monday</text>
-        <value>0</value>
-      </showday>
+      <showday>monday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -104,10 +80,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>monday</text>
-        <value>0</value>
-      </showday>
+      <showday>monday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -116,10 +89,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>tuesday</text>
-        <value>1</value>
-      </showday>
+      <showday>tuesday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -128,10 +98,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>tuesday</text>
-        <value>1</value>
-      </showday>
+      <showday>tuesday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -140,10 +107,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>tuesday</text>
-        <value>1</value>
-      </showday>
+      <showday>tuesday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -152,10 +116,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>tuesday</text>
-        <value>1</value>
-      </showday>
+      <showday>tuesday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -164,10 +125,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>tuesday</text>
-        <value>1</value>
-      </showday>
+      <showday>tuesday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -176,10 +134,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>tuesday</text>
-        <value>1</value>
-      </showday>
+      <showday>tuesday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -188,10 +143,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>tuesday</text>
-        <value>1</value>
-      </showday>
+      <showday>tuesday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -200,10 +152,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>tuesday</text>
-        <value>1</value>
-      </showday>
+      <showday>tuesday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -212,10 +161,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>tuesday</text>
-        <value>1</value>
-      </showday>
+      <showday>tuesday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -224,10 +170,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>wednesday</text>
-        <value>2</value>
-      </showday>
+      <showday>wednesday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -236,10 +179,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>wednesday</text>
-        <value>2</value>
-      </showday>
+      <showday>wednesday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -248,10 +188,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>wednesday</text>
-        <value>2</value>
-      </showday>
+      <showday>wednesday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -260,10 +197,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>wednesday</text>
-        <value>2</value>
-      </showday>
+      <showday>wednesday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -272,10 +206,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>wednesday</text>
-        <value>2</value>
-      </showday>
+      <showday>wednesday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -284,10 +215,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>wednesday</text>
-        <value>2</value>
-      </showday>
+      <showday>wednesday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -296,10 +224,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>wednesday</text>
-        <value>2</value>
-      </showday>
+      <showday>wednesday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -308,10 +233,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>wednesday</text>
-        <value>2</value>
-      </showday>
+      <showday>wednesday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -320,10 +242,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>wednesday</text>
-        <value>2</value>
-      </showday>
+      <showday>wednesday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -332,10 +251,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>thursday</text>
-        <value>3</value>
-      </showday>
+      <showday>thursday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -344,10 +260,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>thursday</text>
-        <value>3</value>
-      </showday>
+      <showday>thursday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -356,10 +269,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>thursday</text>
-        <value>3</value>
-      </showday>
+      <showday>thursday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -368,10 +278,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>thursday</text>
-        <value>3</value>
-      </showday>
+      <showday>thursday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -380,10 +287,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>thursday</text>
-        <value>3</value>
-      </showday>
+      <showday>thursday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -392,10 +296,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>thursday</text>
-        <value>3</value>
-      </showday>
+      <showday>thursday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -404,10 +305,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>thursday</text>
-        <value>3</value>
-      </showday>
+      <showday>thursday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -416,10 +314,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>thursday</text>
-        <value>3</value>
-      </showday>
+      <showday>thursday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -428,10 +323,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>thursday</text>
-        <value>3</value>
-      </showday>
+      <showday>thursday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -440,10 +332,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>friday</text>
-        <value>4</value>
-      </showday>
+      <showday>friday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -452,10 +341,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>friday</text>
-        <value>4</value>
-      </showday>
+      <showday>friday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -464,10 +350,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>friday</text>
-        <value>4</value>
-      </showday>
+      <showday>friday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -476,10 +359,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>friday</text>
-        <value>4</value>
-      </showday>
+      <showday>friday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -488,10 +368,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>friday</text>
-        <value>4</value>
-      </showday>
+      <showday>friday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -500,10 +377,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>friday</text>
-        <value>4</value>
-      </showday>
+      <showday>friday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -512,10 +386,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>friday</text>
-        <value>4</value>
-      </showday>
+      <showday>friday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -524,10 +395,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>friday</text>
-        <value>4</value>
-      </showday>
+      <showday>friday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -536,10 +404,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>friday</text>
-        <value>4</value>
-      </showday>
+      <showday>friday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -548,10 +413,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>saturday</text>
-        <value>5</value>
-      </showday>
+      <showday>saturday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -560,10 +422,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>saturday</text>
-        <value>5</value>
-      </showday>
+      <showday>saturday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -572,10 +431,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>saturday</text>
-        <value>5</value>
-      </showday>
+      <showday>saturday</showday>
       <showtime>13:30</showtime>
     </element>
     <element>
@@ -584,10 +440,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>saturday</text>
-        <value>5</value>
-      </showday>
+      <showday>saturday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -596,10 +449,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>saturday</text>
-        <value>5</value>
-      </showday>
+      <showday>saturday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -608,10 +458,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>saturday</text>
-        <value>5</value>
-      </showday>
+      <showday>saturday</showday>
       <showtime>17:00</showtime>
     </element>
     <element>
@@ -620,10 +467,7 @@
         <number>1</number>
         <usher>Sarah Eccles</usher>
       </screen>
-      <showday>
-        <text>saturday</text>
-        <value>5</value>
-      </showday>
+      <showday>saturday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -632,10 +476,7 @@
         <number>2</number>
         <usher>Ari Ventaro</usher>
       </screen>
-      <showday>
-        <text>saturday</text>
-        <value>5</value>
-      </showday>
+      <showday>saturday</showday>
       <showtime>20:30</showtime>
     </element>
     <element>
@@ -644,10 +485,7 @@
         <number>3</number>
         <usher>Jake Calcas</usher>
       </screen>
-      <showday>
-        <text>saturday</text>
-        <value>5</value>
-      </showday>
+      <showday>saturday</showday>
       <showtime>20:30</showtime>
     </element>
   </movies>
