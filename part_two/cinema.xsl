@@ -6,6 +6,15 @@
 
   <xsl:template match="/">
     <html>
+      <head>
+        <style>
+          tables td, tables th { border: 1px solid #ddd; padding: 8px; } tables
+          tr:nth-child(even){background-color: #f2f2f2;} tables tr:hover
+          {background-color: #ddd;} tables th { padding-top: 12px;
+          padding-bottom: 12px; text-align: left; background-color: #4CAF50;
+          color: white; }
+        </style>
+      </head>
       <body>
         <h1>
           <xsl:value-of select="root/name" />
@@ -25,27 +34,37 @@
             <xsl:value-of select="./week" />
           </h3>
           <xsl:for-each select="./movies/element">
-            <p><xsl:value-of select="./day" /></p>
-            <table border="1">
-              <thead style="font-weight: bold">
+            <p><xsl:value-of select="./day"/></p>
+            <table style="border-collapse: collapse">
+              <thead>
                 <tr>
-                  <td>Showtime</td>
-                  <td>Movie</td>
-                  <td>Screen</td>
-                  <td>Usher</td>
+                  <th style="border: 1px solid #ddd; padding: 8px;"
+                    >Showtime</th
+                  >
+                  <th style="border: 1px solid #ddd; padding: 8px;">Movie</th>
+                  <th style="border: 1px solid #ddd; padding: 8px;">Screen</th>
+                  <th style="border: 1px solid #ddd; padding: 8px;">Usher</th>
                   <xsl:if test="./day = 'Sunday'">
-                    <td>Theme</td>
+                    <th style="border: 1px solid #ddd; padding: 8px;">Theme</th>
                   </xsl:if>
                 </tr>
               </thead>
               <xsl:for-each select="./movies/element">
                 <tr>
-                  <td><xsl:value-of select="./showtime" /></td>
-                  <td><xsl:value-of select="./screen/movie" /></td>
-                  <td><xsl:value-of select="./screen/number" /></td>
-                  <td><xsl:value-of select="./screen/usher" /></td>
+                  <td style="border: 1px solid #ddd; padding: 8px;"
+                    ><xsl:value-of select="./showtime"
+                  /></td>
+                  <td style="border: 1px solid #ddd; padding: 8px;"
+                    ><xsl:value-of select="./screen/movie"
+                  /></td>
+                  <td style="border: 1px solid #ddd; padding: 8px;"
+                    ><xsl:value-of select="./screen/number"
+                  /></td>
+                  <td style="border: 1px solid #ddd; padding: 8px;"
+                    ><xsl:value-of select="./screen/usher"
+                  /></td>
                   <xsl:if test="./screen/theme != ''">
-                    <td><xsl:value-of select="./screen/theme" /></td>
+                    <td><xsl:value-of select="./screen/theme"/></td>
                   </xsl:if>
                 </tr>
               </xsl:for-each>
