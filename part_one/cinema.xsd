@@ -10,17 +10,43 @@
               <xs:element name="element" maxOccurs="unbounded" minOccurs="0">
                 <xs:complexType>
                   <xs:sequence>
-                    <xs:element name="screen">
+                    <xs:element name="movies">
                       <xs:complexType>
                         <xs:sequence>
-                          <xs:element type="xs:string" name="movie"/>
-                          <xs:element type="xs:byte" name="number"/>
-                          <xs:element type="xs:string" name="usher"/>
+                          <xs:element name="element" maxOccurs="unbounded" minOccurs="0">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="day"/>
+                                <xs:element name="movies">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="element" maxOccurs="unbounded" minOccurs="0">
+                                        <xs:complexType>
+                                          <xs:sequence>
+                                            <xs:element name="screen">
+                                              <xs:complexType>
+                                                <xs:sequence>
+                                                  <xs:element type="xs:string" name="movie"/>
+                                                  <xs:element type="xs:byte" name="number"/>
+                                                  <xs:element type="xs:string" name="theme" minOccurs="0"/>
+                                                  <xs:element type="xs:string" name="usher"/>
+                                                </xs:sequence>
+                                              </xs:complexType>
+                                            </xs:element>
+                                            <xs:element type="xs:string" name="showtime"/>
+                                          </xs:sequence>
+                                        </xs:complexType>
+                                      </xs:element>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
                         </xs:sequence>
                       </xs:complexType>
                     </xs:element>
-                    <xs:element type="xs:string" name="showday"/>
-                    <xs:element type="xs:string" name="showtime"/>
+                    <xs:element type="xs:string" name="week"/>
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>

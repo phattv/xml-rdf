@@ -1,4 +1,4 @@
-var cinema = {
+const cinema = {
   name: "Old St. Cinema",
   address: "23 Old Street, Oxford",
   phone: "01865 123456",
@@ -6,45 +6,95 @@ var cinema = {
   movies: []
 };
 
-var screens = [
+const usherSarah = "Sarah Eccles",
+  userAri = "Ari Ventaro",
+  userJake = "Jake Calcas";
+const nonSundayScreens = [
   {
     number: 1,
-    usher: "Sarah Eccles",
+    usher: usherSarah,
     movie: "Jaws"
   },
   {
     number: 2,
-    usher: "Ari Ventaro",
+    usher: userAri,
     movie: "The Breakfast Club"
   },
   {
     number: 3,
-    usher: "Jake Calcas",
+    usher: userJake,
     movie: "The Maltese Falcon"
   }
 ];
 
-var showtimes = ["13:30", "17:00", "20:30"];
-
-var showDays = [
-  { text: "monday", value: 0 },
-  { text: "tuesday", value: 1 },
-  { text: "wednesday", value: 2 },
-  { text: "thursday", value: 3 },
-  { text: "friday", value: 4 },
-  { text: "saturday", value: 5 }
+const theme = "Spaghetti Westerns";
+const sundayScreens = [
+  {
+    number: 1,
+    usher: usherSarah,
+    movie: "A fistful of Dollars",
+    theme: theme
+  },
+  {
+    number: 2,
+    usher: userAri,
+    movie: "For a Few Dollars More",
+    theme: theme
+  },
+  {
+    number: 3,
+    usher: userJake,
+    movie: "The Good, the Bad and the Ugly",
+    theme: theme
+  }
 ];
 
-showDays.forEach(function(showDay) {
-  showtimes.forEach(function(showtime) {
-    screens.forEach(function(screen) {
-      cinema.movies.push({
-        showday: showDay.text,
-        showtime: showtime,
-        screen: screen
+const showTimes = ["13:30", "17:00", "20:30"];
+
+const showDays = [
+  { text: "Monday", value: 0 },
+  { text: "Tuesday", value: 1 },
+  { text: "Wednesday", value: 2 },
+  { text: "Thursday", value: 3 },
+  { text: "Friday", value: 4 },
+  { text: "Saturday", value: 5 },
+  { text: "Sunday", value: 6 }
+];
+
+const showWeeks = ["Week 1", "Week 2", "Week 3"];
+
+showWeeks.forEach(function(showWeek) {
+  var currentShowWeek = {
+    week: showWeek,
+    movies: []
+  };
+
+  showDays.forEach(function(showDay) {
+    // If sunday
+    if (showDay.value === 6) {
+      screens = sundayScreens;
+    } else {
+      screens = nonSundayScreens;
+    }
+
+    var currentShowDay = {
+      day: showDay.text,
+      movies: []
+    };
+
+    showTimes.forEach(function(showtime) {
+      screens.forEach(function(screen) {
+        currentShowDay.movies.push({
+          showtime: showtime,
+          screen: screen
+        });
       });
     });
+
+    currentShowWeek.movies.push(currentShowDay);
   });
+
+  cinema.movies.push(currentShowWeek);
 });
 
 console.log(JSON.stringify(cinema));

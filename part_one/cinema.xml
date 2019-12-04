@@ -3,490 +3,1663 @@
   <address>23 Old Street, Oxford</address>
   <movies>
     <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>monday</showday>
-      <showtime>13:30</showtime>
+      <movies>
+        <element>
+          <day>Monday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Tuesday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Wednesday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Thursday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Friday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Saturday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Sunday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>A fistful of Dollars</movie>
+                <number>1</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>For a Few Dollars More</movie>
+                <number>2</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Good, the Bad and the Ugly</movie>
+                <number>3</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>A fistful of Dollars</movie>
+                <number>1</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>For a Few Dollars More</movie>
+                <number>2</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Good, the Bad and the Ugly</movie>
+                <number>3</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>A fistful of Dollars</movie>
+                <number>1</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>For a Few Dollars More</movie>
+                <number>2</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Good, the Bad and the Ugly</movie>
+                <number>3</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+      </movies>
+      <week>Week 1</week>
     </element>
     <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>monday</showday>
-      <showtime>13:30</showtime>
+      <movies>
+        <element>
+          <day>Monday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Tuesday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Wednesday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Thursday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Friday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Saturday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Sunday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>A fistful of Dollars</movie>
+                <number>1</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>For a Few Dollars More</movie>
+                <number>2</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Good, the Bad and the Ugly</movie>
+                <number>3</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>A fistful of Dollars</movie>
+                <number>1</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>For a Few Dollars More</movie>
+                <number>2</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Good, the Bad and the Ugly</movie>
+                <number>3</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>A fistful of Dollars</movie>
+                <number>1</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>For a Few Dollars More</movie>
+                <number>2</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Good, the Bad and the Ugly</movie>
+                <number>3</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+      </movies>
+      <week>Week 2</week>
     </element>
     <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>monday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>monday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>monday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>monday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>monday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>monday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>monday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>tuesday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>tuesday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>tuesday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>tuesday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>tuesday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>tuesday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>tuesday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>tuesday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>tuesday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>wednesday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>wednesday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>wednesday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>wednesday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>wednesday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>wednesday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>wednesday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>wednesday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>wednesday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>thursday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>thursday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>thursday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>thursday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>thursday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>thursday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>thursday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>thursday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>thursday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>friday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>friday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>friday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>friday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>friday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>friday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>friday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>friday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>friday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>saturday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>saturday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>saturday</showday>
-      <showtime>13:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>saturday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>saturday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>saturday</showday>
-      <showtime>17:00</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>Jaws</movie>
-        <number>1</number>
-        <usher>Sarah Eccles</usher>
-      </screen>
-      <showday>saturday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Breakfast Club</movie>
-        <number>2</number>
-        <usher>Ari Ventaro</usher>
-      </screen>
-      <showday>saturday</showday>
-      <showtime>20:30</showtime>
-    </element>
-    <element>
-      <screen>
-        <movie>The Maltese Falcon</movie>
-        <number>3</number>
-        <usher>Jake Calcas</usher>
-      </screen>
-      <showday>saturday</showday>
-      <showtime>20:30</showtime>
+      <movies>
+        <element>
+          <day>Monday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Tuesday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Wednesday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Thursday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Friday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Saturday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>Jaws</movie>
+                <number>1</number>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Breakfast Club</movie>
+                <number>2</number>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Maltese Falcon</movie>
+                <number>3</number>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+        <element>
+          <day>Sunday</day>
+          <movies>
+            <element>
+              <screen>
+                <movie>A fistful of Dollars</movie>
+                <number>1</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>For a Few Dollars More</movie>
+                <number>2</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Good, the Bad and the Ugly</movie>
+                <number>3</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>13:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>A fistful of Dollars</movie>
+                <number>1</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>For a Few Dollars More</movie>
+                <number>2</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Good, the Bad and the Ugly</movie>
+                <number>3</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>17:00</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>A fistful of Dollars</movie>
+                <number>1</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Sarah Eccles</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>For a Few Dollars More</movie>
+                <number>2</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Ari Ventaro</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+            <element>
+              <screen>
+                <movie>The Good, the Bad and the Ugly</movie>
+                <number>3</number>
+                <theme>Spaghetti Westerns</theme>
+                <usher>Jake Calcas</usher>
+              </screen>
+              <showtime>20:30</showtime>
+            </element>
+          </movies>
+        </element>
+      </movies>
+      <week>Week 3</week>
     </element>
   </movies>
   <name>Old St. Cinema</name>
