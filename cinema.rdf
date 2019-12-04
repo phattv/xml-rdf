@@ -1,0 +1,656 @@
+@prefix :<http://purl.org/net/ns/jsonrdf/>
+ .
+[
+:name "Old St. Cinema";
+:address "23 Old Street, Oxford";
+:phone "01865 123456";
+:owner "John Arbuttle";
+:movies [
+  :showday [
+    :text "monday";
+    :value 0
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "monday";
+    :value 0
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "monday";
+    :value 0
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "monday";
+    :value 0
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "monday";
+    :value 0
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "monday";
+    :value 0
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "monday";
+    :value 0
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "monday";
+    :value 0
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "monday";
+    :value 0
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "tuesday";
+    :value 1
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "tuesday";
+    :value 1
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "tuesday";
+    :value 1
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "tuesday";
+    :value 1
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "tuesday";
+    :value 1
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "tuesday";
+    :value 1
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "tuesday";
+    :value 1
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "tuesday";
+    :value 1
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "tuesday";
+    :value 1
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "wednesday";
+    :value 2
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "wednesday";
+    :value 2
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "wednesday";
+    :value 2
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "wednesday";
+    :value 2
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "wednesday";
+    :value 2
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "wednesday";
+    :value 2
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "wednesday";
+    :value 2
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "wednesday";
+    :value 2
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "wednesday";
+    :value 2
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "thursday";
+    :value 3
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "thursday";
+    :value 3
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "thursday";
+    :value 3
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "thursday";
+    :value 3
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "thursday";
+    :value 3
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "thursday";
+    :value 3
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "thursday";
+    :value 3
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "thursday";
+    :value 3
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "thursday";
+    :value 3
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "friday";
+    :value 4
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "friday";
+    :value 4
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "friday";
+    :value 4
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "friday";
+    :value 4
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "friday";
+    :value 4
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "friday";
+    :value 4
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "friday";
+    :value 4
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "friday";
+    :value 4
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "friday";
+    :value 4
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "saturday";
+    :value 5
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "saturday";
+    :value 5
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "saturday";
+    :value 5
+    ];
+  :showtime 13:30;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "saturday";
+    :value 5
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "saturday";
+    :value 5
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "saturday";
+    :value 5
+    ];
+  :showtime 17:00;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "saturday";
+    :value 5
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 1;
+    :usher "Sarah Eccles";
+    :movie "Jaws"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "saturday";
+    :value 5
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 2;
+    :usher "Ari Ventaro";
+    :movie "The Breakfast Club"
+    ]
+  ];
+:movies [
+  :showday [
+    :text "saturday";
+    :value 5
+    ];
+  :showtime 20:30;
+  :screen [
+    :number 3;
+    :usher "Jake Calcas";
+    :movie "The Maltese Falcon"
+    ]
+  ]
+] ."

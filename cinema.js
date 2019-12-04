@@ -48,6 +48,14 @@ showDays.forEach(function(showDay) {
 });
 
 console.log(JSON.stringify(cinema));
-// https://www.freeformatter.com/json-to-xml-converter.html
-// https://www.freeformatter.com/xsd-generator.html
-// https://www.freeformatter.com/xml-validator-xsd.html
+/**
+ * JSON to XML
+ * https://www.freeformatter.com/json-to-xml-converter.html
+ * https://www.freeformatter.com/xsd-generator.html
+ * https://www.freeformatter.com/xml-validator-xsd.html
+ */
+
+/**
+ * JSON to RDF Tutle
+ * https://www.kanzaki.com/works/2006/misc/0308turtle.html
+ */
