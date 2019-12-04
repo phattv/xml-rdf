@@ -1,0 +1,1620 @@
+@prefix cnm: <http://purl.org/net/ns/jsonrdf/>
+
+ .
+[
+cnm:name "Old St. Cinema";
+cnm:address "23 Old Street, Oxford";
+cnm:phone "01865 123456";
+cnm:owner "John Arbuttle";
+cnm:movies [
+  cnm:week "Week 1";
+  cnm:movies [
+    cnm:day "Monday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Tuesday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Wednesday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Thursday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Friday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Saturday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Sunday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "A fistful of Dollars";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "For a Few Dollars More";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Good, the Bad and the Ugly";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "A fistful of Dollars";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "For a Few Dollars More";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Good, the Bad and the Ugly";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "A fistful of Dollars";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "For a Few Dollars More";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Good, the Bad and the Ugly";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm]
+    cnm]
+  cnm];
+cnm:movies [
+  cnm:week "Week 2";
+  cnm:movies [
+    cnm:day "Monday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Tuesday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Wednesday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Thursday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Friday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Saturday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Sunday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "A fistful of Dollars";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "For a Few Dollars More";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Good, the Bad and the Ugly";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "A fistful of Dollars";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "For a Few Dollars More";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Good, the Bad and the Ugly";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "A fistful of Dollars";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "For a Few Dollars More";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Good, the Bad and the Ugly";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm]
+    cnm]
+  cnm];
+cnm:movies [
+  cnm:week "Week 3";
+  cnm:movies [
+    cnm:day "Monday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Tuesday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Wednesday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Thursday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Friday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Saturday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "Jaws"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "The Breakfast Club"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Maltese Falcon"
+        cnm]
+      cnm]
+    cnm];
+  cnm:movies [
+    cnm:day "Sunday";
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "A fistful of Dollars";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "For a Few Dollars More";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 13:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Good, the Bad and the Ugly";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "A fistful of Dollars";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "For a Few Dollars More";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 17:00;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Good, the Bad and the Ugly";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 1;
+        cnm:usher "Sarah Eccles";
+        cnm:movie "A fistful of Dollars";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 2;
+        cnm:usher "Ari Ventaro";
+        cnm:movie "For a Few Dollars More";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm];
+    cnm:movies [
+      cnm:showtime 20:30;
+      cnm:screen [
+        cnm:number 3;
+        cnm:usher "Jake Calcas";
+        cnm:movie "The Good, the Bad and the Ugly";
+        cnm:theme "Spaghetti Westerns"
+        cnm]
+      cnm]
+    cnm]
+  cnm]
+cnm]

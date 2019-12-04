@@ -1,0 +1,19 @@
+@prefix cnm: <http://purl.org/net/ns/jsonrdf/>
+
+SELECT ?movie
+WHERE
+{
+  ?movie cnm:movies ?cinemaMovies.
+  ?cinemaMovies cnm:movies ?weekMovies.
+  ?weekMovies cnm:movies ?dayMovies.
+  ?dayMovies cnm:screen ?screenObject.
+  ?screenObject cnm:number 2.
+}
+
+SELECT ?movie
+WHERE
+{
+  ?movie cnm:movies ?cinemaMovies.
+  ?cinemaMovies cnm:movies ?weekMovies.
+  ?weekMovies cnm:day "Sunday".
+}

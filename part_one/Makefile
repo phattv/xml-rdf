@@ -1,5 +1,5 @@
 gen:
-	xsltproc cinema.xsl cinema.xml > index.html
+	xsltproc template.xsl data.xml > index.html
 
 open:
 	open -a "Google Chrome" index.html
