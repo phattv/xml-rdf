@@ -6,15 +6,6 @@
 
   <xsl:template match="/">
     <html>
-      <head>
-        <style>
-          tables td, tables th { border: 1px solid #ddd; padding: 8px; } tables
-          tr:nth-child(even){background-color: #f2f2f2;} tables tr:hover
-          {background-color: #ddd;} tables th { padding-top: 12px;
-          padding-bottom: 12px; text-align: left; background-color: #4CAF50;
-          color: white; }
-        </style>
-      </head>
       <body>
         <h1>
           <xsl:value-of select="root/name" />
@@ -77,8 +68,3 @@
     </html>
   </xsl:template>
 </xsl:stylesheet>
-
-<!-- TODO: Search: <xsl:for-each select="root/movies/element[screen/name='screen 1']"> -->
-<!-- TODO: Sort: <xsl:sort select="showday/value"/> -->
-<!-- TODO: Pagination -->
-<!-- TODO: parameters <xsl:param name="Page" select="0" /> -->
