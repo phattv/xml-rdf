@@ -1,0 +1,683 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix cnm: <cnm:/> .
+[
+foaf:name "Old St. Cinema";
+cnm:address "23 Old Street, Oxford";
+foaf:phone "01865 123456";
+cnm:owner "John Arbuttle";
+cnm:moviesByWeek [
+  cnm:week "Week 1";
+  cnm:moviesByScreen [
+    foaf:name "Screen 1";
+    cnm:usher "Sarah Eccles";
+    cnm:moviesByDay [
+      cnm:day "Monday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Tuesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Wednesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Thursday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Friday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Saturday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Sunday";
+      cnm:movies "A fistful of Dollars";
+      cnm:movies "For a Few Dollars More";
+      cnm:movies "The Good, the Bad and the Ugly";
+      foaf:theme "Spaghetti Westerns";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm]
+    cnm];
+  cnm:moviesByScreen [
+    foaf:name "Screen 2";
+    cnm:usher "Ari Ventaro";
+    cnm:moviesByDay [
+      cnm:day "Monday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Tuesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Wednesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Thursday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Friday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Saturday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Sunday";
+      cnm:movies "A fistful of Dollars";
+      cnm:movies "For a Few Dollars More";
+      cnm:movies "The Good, the Bad and the Ugly";
+      foaf:theme "Spaghetti Westerns";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm]
+    cnm];
+  cnm:moviesByScreen [
+    foaf:name "Screen 3";
+    cnm:usher "Jake Calcas";
+    cnm:moviesByDay [
+      cnm:day "Monday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Tuesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Wednesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Thursday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Friday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Saturday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Sunday";
+      cnm:movies "A fistful of Dollars";
+      cnm:movies "For a Few Dollars More";
+      cnm:movies "The Good, the Bad and the Ugly";
+      foaf:theme "Spaghetti Westerns";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm]
+    cnm]
+  cnm];
+cnm:moviesByWeek [
+  cnm:week "Week 2";
+  cnm:moviesByScreen [
+    foaf:name "Screen 1";
+    cnm:usher "Sarah Eccles";
+    cnm:moviesByDay [
+      cnm:day "Monday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Tuesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Wednesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Thursday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Friday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Saturday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Sunday";
+      cnm:movies "A fistful of Dollars";
+      cnm:movies "For a Few Dollars More";
+      cnm:movies "The Good, the Bad and the Ugly";
+      foaf:theme "Spaghetti Westerns";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm]
+    cnm];
+  cnm:moviesByScreen [
+    foaf:name "Screen 2";
+    cnm:usher "Ari Ventaro";
+    cnm:moviesByDay [
+      cnm:day "Monday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Tuesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Wednesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Thursday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Friday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Saturday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Sunday";
+      cnm:movies "A fistful of Dollars";
+      cnm:movies "For a Few Dollars More";
+      cnm:movies "The Good, the Bad and the Ugly";
+      foaf:theme "Spaghetti Westerns";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm]
+    cnm];
+  cnm:moviesByScreen [
+    foaf:name "Screen 3";
+    cnm:usher "Jake Calcas";
+    cnm:moviesByDay [
+      cnm:day "Monday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Tuesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Wednesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Thursday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Friday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Saturday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Sunday";
+      cnm:movies "A fistful of Dollars";
+      cnm:movies "For a Few Dollars More";
+      cnm:movies "The Good, the Bad and the Ugly";
+      foaf:theme "Spaghetti Westerns";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm]
+    cnm]
+  cnm];
+cnm:moviesByWeek [
+  cnm:week "Week 3";
+  cnm:moviesByScreen [
+    foaf:name "Screen 1";
+    cnm:usher "Sarah Eccles";
+    cnm:moviesByDay [
+      cnm:day "Monday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Tuesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Wednesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Thursday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Friday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Saturday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Sunday";
+      cnm:movies "A fistful of Dollars";
+      cnm:movies "For a Few Dollars More";
+      cnm:movies "The Good, the Bad and the Ugly";
+      foaf:theme "Spaghetti Westerns";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm]
+    cnm];
+  cnm:moviesByScreen [
+    foaf:name "Screen 2";
+    cnm:usher "Ari Ventaro";
+    cnm:moviesByDay [
+      cnm:day "Monday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Tuesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Wednesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Thursday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Friday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Saturday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Sunday";
+      cnm:movies "A fistful of Dollars";
+      cnm:movies "For a Few Dollars More";
+      cnm:movies "The Good, the Bad and the Ugly";
+      foaf:theme "Spaghetti Westerns";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm]
+    cnm];
+  cnm:moviesByScreen [
+    foaf:name "Screen 3";
+    cnm:usher "Jake Calcas";
+    cnm:moviesByDay [
+      cnm:day "Monday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Tuesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Wednesday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Thursday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Friday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Saturday";
+      cnm:movies "Jaws";
+      cnm:movies "The Breakfast Club";
+      cnm:movies "The Maltese Falcon";
+      foaf:theme "";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm];
+    cnm:moviesByDay [
+      cnm:day "Sunday";
+      cnm:movies "A fistful of Dollars";
+      cnm:movies "For a Few Dollars More";
+      cnm:movies "The Good, the Bad and the Ugly";
+      foaf:theme "Spaghetti Westerns";
+      cnm:showTimes 13:30;
+      cnm:showTimes 17:00;
+      cnm:showTimes 20:30
+      cnm]
+    cnm]
+  cnm]
+cnm]

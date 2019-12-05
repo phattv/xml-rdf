@@ -1,0 +1,21 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix cnm: <cnm:/> .
+
+#	Return all the films shown on screen 1
+SELECT ?movie
+WHERE
+{
+  ?movie cnm:moviesByWeek ?moviesByWeek .
+  ?moviesByWeek cnm:moviesByScreen ?moviesByScreen .
+  ?moviesByScreen cnm:name "Screen 1" .
+}
+
+#	Return all the films for the Sunday Theme Days
+SELECT ?movie
+WHERE
+{
+  ?movie cnm:moviesByWeek ?moviesByWeek .
+  ?moviesByWeek cnm:moviesByScreen ?moviesByScreen .
+  ?moviesByScreen cnm:moviesByDay ?moviesByDay .
+  ?moviesByDay cnm:day "Sunday" .
+}

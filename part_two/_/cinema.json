@@ -1,0 +1,491 @@
+{
+  "name": "Old St. Cinema",
+  "address": "23 Old Street, Oxford",
+  "phone": "01865 123456",
+  "owner": "John Arbuttle",
+  "moviesByWeek": [
+    {
+      "week": "Week 1",
+      "moviesByScreen": [
+        {
+          "name": "Screen 1",
+          "usher": "Sarah Eccles",
+          "moviesByDay": [
+            {
+              "day": "Monday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Tuesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Wednesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Thursday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Friday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Saturday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Sunday",
+              "movies": [
+                "A fistful of Dollars",
+                "For a Few Dollars More",
+                "The Good, the Bad and the Ugly"
+              ],
+              "theme": "Spaghetti Westerns",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            }
+          ]
+        },
+        {
+          "name": "Screen 2",
+          "usher": "Ari Ventaro",
+          "moviesByDay": [
+            {
+              "day": "Monday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Tuesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Wednesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Thursday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Friday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Saturday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Sunday",
+              "movies": [
+                "A fistful of Dollars",
+                "For a Few Dollars More",
+                "The Good, the Bad and the Ugly"
+              ],
+              "theme": "Spaghetti Westerns",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            }
+          ]
+        },
+        {
+          "name": "Screen 3",
+          "usher": "Jake Calcas",
+          "moviesByDay": [
+            {
+              "day": "Monday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Tuesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Wednesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Thursday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Friday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Saturday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Sunday",
+              "movies": [
+                "A fistful of Dollars",
+                "For a Few Dollars More",
+                "The Good, the Bad and the Ugly"
+              ],
+              "theme": "Spaghetti Westerns",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": "Week 2",
+      "moviesByScreen": [
+        {
+          "name": "Screen 1",
+          "usher": "Sarah Eccles",
+          "moviesByDay": [
+            {
+              "day": "Monday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Tuesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Wednesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Thursday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Friday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Saturday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Sunday",
+              "movies": [
+                "A fistful of Dollars",
+                "For a Few Dollars More",
+                "The Good, the Bad and the Ugly"
+              ],
+              "theme": "Spaghetti Westerns",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            }
+          ]
+        },
+        {
+          "name": "Screen 2",
+          "usher": "Ari Ventaro",
+          "moviesByDay": [
+            {
+              "day": "Monday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Tuesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Wednesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Thursday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Friday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Saturday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Sunday",
+              "movies": [
+                "A fistful of Dollars",
+                "For a Few Dollars More",
+                "The Good, the Bad and the Ugly"
+              ],
+              "theme": "Spaghetti Westerns",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            }
+          ]
+        },
+        {
+          "name": "Screen 3",
+          "usher": "Jake Calcas",
+          "moviesByDay": [
+            {
+              "day": "Monday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Tuesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Wednesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Thursday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Friday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Saturday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Sunday",
+              "movies": [
+                "A fistful of Dollars",
+                "For a Few Dollars More",
+                "The Good, the Bad and the Ugly"
+              ],
+              "theme": "Spaghetti Westerns",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": "Week 3",
+      "moviesByScreen": [
+        {
+          "name": "Screen 1",
+          "usher": "Sarah Eccles",
+          "moviesByDay": [
+            {
+              "day": "Monday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Tuesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Wednesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Thursday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Friday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Saturday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Sunday",
+              "movies": [
+                "A fistful of Dollars",
+                "For a Few Dollars More",
+                "The Good, the Bad and the Ugly"
+              ],
+              "theme": "Spaghetti Westerns",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            }
+          ]
+        },
+        {
+          "name": "Screen 2",
+          "usher": "Ari Ventaro",
+          "moviesByDay": [
+            {
+              "day": "Monday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Tuesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Wednesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Thursday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Friday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Saturday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Sunday",
+              "movies": [
+                "A fistful of Dollars",
+                "For a Few Dollars More",
+                "The Good, the Bad and the Ugly"
+              ],
+              "theme": "Spaghetti Westerns",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            }
+          ]
+        },
+        {
+          "name": "Screen 3",
+          "usher": "Jake Calcas",
+          "moviesByDay": [
+            {
+              "day": "Monday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Tuesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Wednesday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Thursday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Friday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Saturday",
+              "movies": ["Jaws", "The Breakfast Club", "The Maltese Falcon"],
+              "theme": "",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            },
+            {
+              "day": "Sunday",
+              "movies": [
+                "A fistful of Dollars",
+                "For a Few Dollars More",
+                "The Good, the Bad and the Ugly"
+              ],
+              "theme": "Spaghetti Westerns",
+              "showTimes": ["13:30", "17:00", "20:30"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
