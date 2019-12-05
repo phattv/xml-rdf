@@ -1,6 +1,4 @@
-@prefix cnm: <http://purl.org/net/ns/jsonrdf/>
-
- .
+@prefix cnm: <cnm:/> .
 [
 cnm:name "Old St. Cinema";
 cnm:address "23 Old Street, Oxford";

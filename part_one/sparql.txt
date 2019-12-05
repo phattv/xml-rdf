@@ -1,19 +1,21 @@
-@prefix cnm: <http://purl.org/net/ns/jsonrdf/>
+@prefix cnm: <http://purl.org/net/ns/jsonrdf/> .
 
+# Return all the films shown on screen 2
 SELECT ?movie
 WHERE
 {
-  ?movie cnm:movies ?cinemaMovies.
-  ?cinemaMovies cnm:movies ?weekMovies.
-  ?weekMovies cnm:movies ?dayMovies.
-  ?dayMovies cnm:screen ?screenObject.
-  ?screenObject cnm:number 2.
+  ?movie cnm:movies ?cinemaMovies .
+  ?cinemaMovies cnm:movies ?weekMovies .
+  ?weekMovies cnm:movies ?dayMovies .
+  ?dayMovies cnm:screen ?screenObject .
+  ?screenObject cnm:number 2 .
 }
 
+# Return all the films to be shown on Sunday Theme Days
 SELECT ?movie
 WHERE
 {
-  ?movie cnm:movies ?cinemaMovies.
-  ?cinemaMovies cnm:movies ?weekMovies.
-  ?weekMovies cnm:day "Sunday".
+  ?movie cnm:movies ?cinemaMovies .
+  ?cinemaMovies cnm:movies ?weekMovies .
+  ?weekMovies cnm:day "Sunday" .
 }
