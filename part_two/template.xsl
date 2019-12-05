@@ -30,8 +30,8 @@
               <thead>
                 <tr>
                   <th style="border: 1px solid #ddd; padding: 8px;">Day</th>
-                  <th style="border: 1px solid #ddd; padding: 8px;">Showtime</th>
                   <th style="border: 1px solid #ddd; padding: 8px;">Movie</th>
+                  <th style="border: 1px solid #ddd; padding: 8px;">Showtime</th>
                   <th style="border: 1px solid #ddd; padding: 8px;">Theme</th>
                 </tr>
               </thead>
